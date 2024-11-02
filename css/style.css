@@ -117,5 +117,5 @@ body{
 	float: left;
 }
 .sa2, .sa4, .sa6, .sa8, .sa10, .sa12, .sa14, .sa16, .sa18, .sa20{
-	border: 5px solid red;
+	border: 5px double red;
 }
