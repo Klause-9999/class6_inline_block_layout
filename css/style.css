@@ -1,0 +1,121 @@
+body{
+	font-family: sans-serif;
+	color: whitesmoke;
+	text-align: center;
+	font-size: 50px;
+}
+.header{
+	background-color: black;
+	height: 180px;
+}
+.cg{
+	height: 180px;
+	overflow: hidden;
+}
+.sa{
+	height: 180px;
+	box-sizing: border-box;
+}
+.sa1{
+	background-color: darkgreen;
+	width: 30%;
+	float: left;
+}
+.sa2{
+	background-color: yellow;
+	width: 70%;
+	float: right;
+}
+.sa3{
+	background-color: teal;
+	width: 33.33%;
+	float: left
+}
+.sa4{
+	background-color: tomato;
+	width: 33.33%;
+	float: left;
+}
+.sa5{
+	background-color: green;
+	width: 33.33%;
+	float: left;
+}
+.sa6{
+	background-color: yellow;
+	width: 25%;
+	float: left;
+}
+.sa7{
+	background-color: seagreen;
+	width: 25%;
+	float: left;
+}
+.sa8{
+	background-color: violet;
+	width: 25%;
+	float: left;
+}
+.sa9{
+	background-color: limegreen;
+	width: 25%;
+	float: left;
+}
+.sa10{
+	background-color: hotpink;
+	width: 20%;
+	float: left;
+}
+.sa11{
+	background-color: aqua;
+	width: 20%;
+	float: left;
+}
+.sa12{
+	background-color: greenyellow;
+	width: 20%;
+	float: left;
+}
+.sa13{
+	background-color: lightseagreen;
+	width: 20%;
+	float: left;
+}
+.sa14{
+	background-color: hotpink;
+	width: 20%;
+	float: left;
+}
+.sa15{
+	background-color: green;
+	width: 16.66%;
+	float: left;
+}
+.sa16{
+	background-color: yellow;
+	width: 16.66%;
+	float: left;
+}
+.sa17{
+	background-color: darkblue;
+	width: 16.66%;
+	float: left;
+}
+.sa18{
+	background-color: violet;
+	width: 16.66%;
+	float: left;
+}
+.sa19{
+	background-color: seagreen;
+	width: 16.66%;
+	float: left;
+}
+.sa20{
+	background-color: aqua;
+	width: 16.66%;
+	float: left;
+}
+.sa2, .sa4, .sa6, .sa8, .sa10, .sa12, .sa14, .sa16, .sa18, .sa20{
+	border: 5px solid red;
+}
